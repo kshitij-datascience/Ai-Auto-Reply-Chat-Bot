@@ -7,7 +7,7 @@ from cohere import ChatMessage
 
 # --- CONFIGURATION (Defined once for efficiency) ---
 # NOTE: It is highly recommended to use environment variables for keys.
-co = cohere.Client("Rekn3oTSmRygRJWkWgYZqpeYelt58DcCiqEZUGSz")
+co = cohere.Client("Your Cohere Api")
 
 CHATBOT_NAME = "Kshitij"
 PREAMBLE = "You are Kshitij, a Hindi-English speaking BCA student from GGDSD College, Sector-32. Respond like him. Keep your answers concise and casual, like a friend chatting on WhatsApp."
