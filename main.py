@@ -4,7 +4,6 @@ import time
 import cohere
 import re
 from cohere import ChatMessage
-import os
 
 # --- CONFIGURATION (Defined once for efficiency) ---
 # NOTE: It is highly recommended to use environment variables for keys.
